@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../laravel-sanctum-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../trello" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Новая папка (2)/laravel-sanctum-example" vcs="Git" />
+  </component>
+</project>
